@@ -23,7 +23,7 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/octo8ight"
+                href="https://github.com/Snowman0000"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -38,7 +38,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <SiGmail id="mail1"/>
-                <Tooltip anchorSelect="#mail1" place="top">viroz180237@gmail.com</Tooltip>
+                <Tooltip anchorSelect="#mail1" place="top">forjob00001@gmail.com</Tooltip>
               </a>
             </li>
             <li className="social-icons">
@@ -48,7 +48,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsDiscord id="discord1"/>
-                <Tooltip anchorSelect="#discord1" place="top">viroz180237_1</Tooltip>
+                <Tooltip anchorSelect="#discord1" place="top">muse20first</Tooltip>
               </a>
             </li>
             <li className="social-icons">
@@ -58,7 +58,7 @@ function Footer() {
                 rel="noopener noreferrer"
               >
                 <BsTelegram id="telegram1"/>
-                <Tooltip anchorSelect="#telegram1" place="top">@Stradivarius_2</Tooltip>
+                <Tooltip anchorSelect="#telegram1" place="top">@Snowman222756</Tooltip>
               </a>
             </li>
           </ul>
