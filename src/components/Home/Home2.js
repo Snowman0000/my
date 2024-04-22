@@ -81,7 +81,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/octo8ight"
+                  href="https://github.com/Snowman0000"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -96,7 +96,7 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <SiGmail id="mail"/>
-                  <Tooltip anchorSelect="#mail" place="top">viroz180237@gmail.com</Tooltip>
+                  <Tooltip anchorSelect="#mail" place="top">forjob00001@gmail.com</Tooltip>
                 </a>
               </li>
               <li className="social-icons">
@@ -106,7 +106,7 @@ function Home2() {
                   className="icon-colour  home-social-icons"
                 >
                   <BsDiscord id="discord"/>
-                  <Tooltip anchorSelect="#discord" place="top">viroz180237_1</Tooltip>
+                  <Tooltip anchorSelect="#discord" place="top">muse20first</Tooltip>
                 </a>
               </li>
               <li className="social-icons">
@@ -116,7 +116,7 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <BsTelegram id="telegram"/>
-                  <Tooltip anchorSelect="#telegram" place="top">@Stradivarius_2</Tooltip>
+                  <Tooltip anchorSelect="#telegram" place="top">@Snowman222756</Tooltip>
                 </a>
               </li>
             </ul>
